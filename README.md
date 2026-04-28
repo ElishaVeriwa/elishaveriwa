@@ -1,4 +1,4 @@
-# Hello, I'm Elisha Veriwa 👋
+# Hello World! 🤗, I am Elisha Veriwa
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=Github&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFCA28?style=flat&logo=TensorFlow&logoColor=white)
@@ -52,7 +52,7 @@ src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=flat&logo=Tidyverse
 ---
 
 ### Thank You for Visiting My Profile! 🚀
-I'm excited to connect with like-minded individuals and collaborate on innovative projects that drive impact and sustainability.
+I feel excited to connect with like-minded individuals and collaborate on innovative projects that drive impact and sustainability.
 
 ### Updates
 [![General badge](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://shields.io/)

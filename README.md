@@ -35,7 +35,8 @@ src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=flat&logo=Tidyverse
 
 
 ### Featured Projects
-**[Associate Data Analyst](https://github.com/ElishaVeriwa/datacamp_certified_data_analyst_associate)**
+**[Associate Data Analyst](https://github.com/ElishaVeriwa/datacamp_certified_data_analyst_associate)** and for more info, visit the ["exam Submission"](https://github.com/ElishaVeriwa/datacamp_certified_data_analyst_associate/blob/main/exam_submission.ipynb) `Jupyter notebook`.
+
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=flat&logo=Udemy&logoColor=white)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=flat&logo=datacamp&logoColor=03E860)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)

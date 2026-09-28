@@ -35,8 +35,7 @@ src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=flat&logo=Tidyverse
 
 
 ### Featured Projects
-**[Associate Data Analyst](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fgithub%2Ecom%2FElishaVeriwa&urlhash=EG-t&mt=0r2VF7mWoFkW5kiqmmSu7D2RjE8K6qul5iFR59fVqifb0IHzKDj-7EYpEwiLTIdiCVbaqLllZ7DnL0FeRL48U1WabXw&isSdui=true)**
-
+**[Associate Data Analyst](https://github.com/ElishaVeriwa/datacamp_certified_data_analyst_associate)**
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=flat&logo=Udemy&logoColor=white)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=flat&logo=datacamp&logoColor=03E860)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)
